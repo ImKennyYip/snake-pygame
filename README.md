@@ -8,6 +8,7 @@ How to code a snake game in Python with Pygame for beginners! Learn how to creat
 
 [How to install Pygame-Ce](https://youtu.be/ZKi7Z7JRN6c)
 
+<img width="3840" height="2160" alt="snake-pygame-demo" src="https://github.com/user-attachments/assets/3fa735de-9616-43fa-b522-9783874d87e4" />
 
 ## Homework:
 You can continue working on this project if you like. One feature you can add is a score keeping feature, which increments whenever the snake eats the food. You can also add a pause/game over feature that stops the game completely, and a reset game option. In addition, you can check for collision detection between the snake head and its body. Currently the game only resets when the snake moves past the boundaries of the game window. You can also prevent the snake from moving backwards as that would involve colliding with its own body.
